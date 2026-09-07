@@ -1,0 +1,9 @@
+{
+  "name": "Salala App",
+  "short_name": "Salala",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#d8b15a",
+  "description": "Aplicación para el cuidado y bienestar de los galgos"
+}
